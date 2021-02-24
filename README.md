@@ -15,13 +15,11 @@ In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: 
 9. The fate of Dr. Semmelweis
 
 # Topics Covered:
-1. Data Manipulation
-2. Data Visualization
-3. Probability & Statistics
-4. Importing & Cleaning Data
-5. Data Manipulation
-6. Data Visualization
-7. Case Studies
+- Importing & Cleaning Data
+- Data Manipulation
+- Data Visualization
+- Probability & Statistics
+- Case Studies
 
 # Demonstration:
 
