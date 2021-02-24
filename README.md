@@ -30,7 +30,7 @@ In 1847, the Hungarian physician Ignaz Semmelweis made a breakthough discovery: 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Suraj-Patro/Handwashing_Importance/blob/main/Importance_of_Handwashing.ipynb)
 [![mybinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Suraj-Patro/Handwashing_Importance/blob/main/Importance_of_Handwashing.ipynb)
 
-- *Executing [Importance_of_Handwashing.py](https://colab.research.google.com/github/Suraj-Patro/Handwashing_Importance/blob/main/Importance_of_Handwashing.py) in a Python Environment with the [required packages](https://github.com/Suraj-Patro/Handwashing_Importance#packages-required) installed.*
+- *Executing [Importance_of_Handwashing.py](https://raw.githubusercontent.com/Suraj-Patro/Handwashing_Importance/main/importance_of_handwashing.py) in a Python Environment with the [required packages](https://github.com/Suraj-Patro/Handwashing_Importance#packages-required) installed.*
 
 # Packages Required
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html#getting-started)
